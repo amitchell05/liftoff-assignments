@@ -51,7 +51,7 @@ We became inspired by the idea from Kaja’s Day Planner app and Andrea’s inte
 * Bootstrap
 * SQL Server
 
-### What I'll Have to Learn
+### What We'll Have to Learn
 * More Bootstrap/Angular Material (Responsive Web Design)
 * User Authentication
 * API (Inspirational Quotes API)
