@@ -6,6 +6,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+## Organizly Project Outline
+
+Angela Mitchell, Kaja Grabowska, Andrea Pruitt, Kai Walters
+
 ### Overview
 When the COVID-19 pandemic started in 2020, colleges and universities across the world had to go virtual. This increased the demand for remote learning tools to help students keep track of their coursework. One tool we believe can help reduce the stress of learning virtually is an e-planner.
 
