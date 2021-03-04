@@ -6,7 +6,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
-## Organizly Project Outline
+## Organizely Project Outline
 
 Angela Mitchell, Kaja Grabowska, Andrea Pruitt, Kai Walters
 
@@ -59,5 +59,5 @@ We became inspired by the idea from Kaja’s Day Planner app and Andrea’s inte
 * SQL Server + Database
 
 ### Project Tracker
-[Organizly](https://trello.com/b/WxO8M2DZ/organizely-studium-project-2021)
+[Organizely](https://trello.com/b/WxO8M2DZ/organizely-studium-project-2021)
 
