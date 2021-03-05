@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[Angela Mitchell's GitHub Account](https://github.com/amitchell05)
+[Angela Mitchell's GitHub Profile](https://github.com/amitchell05)
  
 ### LinkedIn
-[Angela Mitchell's LinkedIn Account](https://www.linkedin.com/in/amitchell05/)
+[Angela Mitchell's LinkedIn Profile](https://www.linkedin.com/in/amitchell05/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
