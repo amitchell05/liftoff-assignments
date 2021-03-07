@@ -53,6 +53,7 @@ We became inspired by the idea from Kaja’s Day Planner app and Andrea’s inte
 
 ### What We'll Have to Learn
 * More Bootstrap/Angular Material (Responsive Web Design)
+* How to make a calendar/use a calendar schematic? (week, day, month, and agenda view)
 * User Authentication
 * API (Inspirational Quotes API)
 * Asynchronous programming? (Pomodoro Timer)
