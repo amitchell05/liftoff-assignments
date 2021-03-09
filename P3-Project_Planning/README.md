@@ -12,9 +12,9 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 [Organizely Project Board](https://trello.com/b/WxO8M2DZ/organizely-project-2021)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Organizely](https://github.com/AKA-Liftoff-Group-2021/organizely)
+[Organizely API](https://github.com/AKA-Liftoff-Group-2021/aka-e-learning-planner)
